@@ -1,0 +1,16 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<artifactId>de.joe.m2e.apt</artifactId>
+	<name>APT-Connector for M2E</name>
+	<description>Manages Apt Configuration for M2E</description>
+	<parent>
+		<groupId>de.joe.m2e.apt</groupId>
+		<artifactId>de.joe.m2e.apt.parent</artifactId>
+		<version>0.0.1.0</version>
+		<relativePath>../pom.xml</relativePath>
+	</parent>
+	<packaging>eclipse-plugin</packaging>
+
+
+</project>
