@@ -36,8 +36,8 @@
           </execution>
         </executions>
         <configuration>
-          <metadataRepositoryName>Maven SCM Handler for EGit</metadataRepositoryName>
-          <artifactRepositoryName>Maven SCM Handler for EGit</artifactRepositoryName>
+          <metadataRepositoryName>APT-Connector for M2E</metadataRepositoryName>
+          <artifactRepositoryName>APT-Connector for M2E</artifactRepositoryName>
         </configuration>
       </plugin>
       <plugin>
