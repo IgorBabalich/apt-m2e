@@ -2,7 +2,7 @@
 <feature
       id="de.joe.m2e.apt.feature"
       label="APT M2E Connector"
-      version="0.0.1.0"
+      version="0.0.1.1"
       plugin="de.joe.m2e.apt">
 
    <description>
@@ -26,7 +26,7 @@
          id="de.joe.m2e.apt"
          download-size="0"
          install-size="0"
-         version="0.0.1.0"
+         version="0.0.1.1"
          unpack="false"/>
 
 </feature>
