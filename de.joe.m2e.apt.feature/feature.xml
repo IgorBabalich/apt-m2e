@@ -2,7 +2,7 @@
 <feature
       id="de.joe.m2e.apt.feature"
       label="APT M2E Connector"
-      version="0.0.1.1"
+      version="0.0.1.2"
       plugin="de.joe.m2e.apt">
 
    <description>
@@ -18,15 +18,15 @@
    </license>
 
    <requires>
-      <import feature="org.eclipse.platform" version="3.6.0" match="greaterOrEqual"/>
-      <import feature="org.eclipse.m2e.feature" version="1.0.100.20110804-1717"/>
+      <import feature="org.eclipse.platform" version="3.8.0" match="greaterOrEqual"/>
+      <import feature="org.eclipse.m2e.feature" version="1.1.0.20120530-0009" match="greaterOrEqual"/>
    </requires>
 
    <plugin
          id="de.joe.m2e.apt"
          download-size="0"
          install-size="0"
-         version="0.0.1.1"
+         version="0.0.1.2"
          unpack="false"/>
 
 </feature>
